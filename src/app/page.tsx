@@ -10,10 +10,10 @@ export default function Home() {
     
       <Header/>
         <main className="container">
-          <img className="profile-img" src="/portfolioImg.jpeg "></img>
+          <img className="profile-img" src="/portfolioImg.jpeg " alt="portfolio-img"></img>
         
       
-        <p className="" >Hello, <br/>I'm Sidra Asfand</p>
+        <p className="" >Hello, <br/>I&apos;m Sidra Asfand</p>
         
     
         </main>
